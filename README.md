@@ -1,7 +1,7 @@
 ### 👋 Hey there! I'm Avn
 
 I'm a Computer Science (IoT) undergrad, currently exploring the world of tech, design, and self-growth.  
-Curious by nature, passionate about learning, and always up for a new challenge—whether it's a cool project or mastering consistency. ☕️
+Curious by nature, passionate about learning, and always up for a new challenge, whether it's a cool project or mastering consistency. ☕️
 
 ---
 
@@ -16,14 +16,14 @@ Curious by nature, passionate about learning, and always up for a new challenge�
 ### 🎯 Goals:
 - Build clean, creative, and useful web projects  
 - Improve my skills & consistency  
-- Aim for top-tier universities for pg
+- And to work hard to be a pro!
 
 ---
 
 ### 💡 A Little More About Me:
 - I love soft music, autumn aesthetics, and rainy day coding sessions 🌧️  
-- Trying to be more productive (and less addicted to my phone 😅)  
-- Always improving—bit by bit, day by day.
+- Trying to be more productive 
+- Always improving. Bit by bit, day by day.
 
 ---
 
